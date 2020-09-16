@@ -2,4 +2,5 @@ trivikram
 friend
 friend made a change
 collegue
+collegue made a change
 lets think about whom to be added in future for our repo contribution
